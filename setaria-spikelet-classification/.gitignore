@@ -1,0 +1,6 @@
+/val
+/train
+/output
+*.jpg
+/.ipynb_checkpoints
+
